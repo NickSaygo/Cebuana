@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar-placeholder {
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    padding: 10px 100px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: blue;
+}

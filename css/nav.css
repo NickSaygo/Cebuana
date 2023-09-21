@@ -1,0 +1,22 @@
+.logo {
+    width: 10%;
+}
+
+img {
+    width: 100%;
+}
+
+.nav-container {
+    display: flex;
+}
+
+.nav-container a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+}
+
+.nav-container a:hover {
+    background-color: red;
+}
