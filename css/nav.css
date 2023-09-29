@@ -1,22 +1,15 @@
-.logo {
-    width: 10%;
-}
-
-img {
-    width: 100%;
-}
-
-.nav-container {
-    display: flex;
-}
-
+/* font-family: 'Metropolis-SemiBold'; */
 .nav-container a {
     text-decoration: none;
-    color: white;
-    font-size: 15px;
     padding: 20px;
+    height: fit-content;
+    color: white;
 }
 
 .nav-container a:hover {
     background-color: red;
+}
+
+.logo img {
+    width: 30%;
 }
