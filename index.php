@@ -11,13 +11,13 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-    <div id="navbar-placeholder">
-        <?php include "html/navbar.html"?>
-    </div>
-    
     <div class="main-container">
-        <img src="img/Carousel.jpg" alt="">
+        <div id="navbar-placeholder">
+            <?php include "html/navbar.html"?>
+        </div>
+        <div class="img-carousel">
+            <img src="img/Carousel.jpg" alt="">
+        </div>
     </div>
 
  </body>   
